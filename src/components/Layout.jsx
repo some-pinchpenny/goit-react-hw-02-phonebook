@@ -8,7 +8,7 @@ export const Layout = styled.div`
   margin: 0 auto;
   padding: 20px;
   border: 2px solid #646b74;
-  border-radius: 16px;
+  border-radius: 18px;
   background-color: #eaf4f7;
 `;
 
